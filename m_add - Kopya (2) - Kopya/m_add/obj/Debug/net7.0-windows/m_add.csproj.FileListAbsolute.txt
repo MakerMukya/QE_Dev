@@ -1,0 +1,48 @@
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\bin\Debug\net7.0-windows\m_add.exe
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\bin\Debug\net7.0-windows\m_add.deps.json
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\bin\Debug\net7.0-windows\m_add.runtimeconfig.json
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\bin\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\bin\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.Form1.resources
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\refint\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\m_add.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add\m_add\obj\Debug\net7.0-windows\ref\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\bin\Debug\net7.0-windows\m_add.exe
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\bin\Debug\net7.0-windows\m_add.deps.json
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\bin\Debug\net7.0-windows\m_add.runtimeconfig.json
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\bin\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\bin\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.Form1.resources
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\refint\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\m_add.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2)\m_add\obj\Debug\net7.0-windows\ref\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\bin\Debug\net7.0-windows\m_add.exe
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\bin\Debug\net7.0-windows\m_add.deps.json
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\bin\Debug\net7.0-windows\m_add.runtimeconfig.json
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\bin\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\bin\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.Form1.resources
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\refint\m_add.dll
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.pdb
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\m_add.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\VS 22\m_add - Kopya (2) - Kopya\m_add\obj\Debug\net7.0-windows\ref\m_add.dll
